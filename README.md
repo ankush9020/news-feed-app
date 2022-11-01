@@ -5,6 +5,10 @@
 npm install
 ```
 
+used an external api for showing the latest news in dashboard (https://newsapi.org/v2/top-headlines?country=us&apiKey=edc080fe41074cae8494fe955ad8089a)
+
+
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
